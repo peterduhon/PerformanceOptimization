@@ -37,9 +37,9 @@ pip install matplotlib
 
 ## Visualizations
 
-The project now includes a visualization feature that compares the execution time of the unoptimized and optimized bidding processes. Below is an example of the generated chart:
+The project includes a visualization feature that compares the execution time of the unoptimized and optimized bidding processes. Below is an example of the generated chart:
 
-![Performance Comparison](path/to/your/screenshot.png)
+![Performance Comparison](images/performance_comparison.png)
 
 ## How to Contribute
 
