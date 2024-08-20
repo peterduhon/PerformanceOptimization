@@ -44,9 +44,3 @@ The project includes a visualization feature that compares the execution time of
 ## How to Contribute
 
 Feel free to submit issues, fork the repository, and send pull requests! Contributions are welcome.
-
----
-
-Replace `path/to/your/screenshot.png` with the actual path to the screenshot if you want to include an image in the README.
-
-This updated README will help other developers and users understand the new features you've added and how to use them.
